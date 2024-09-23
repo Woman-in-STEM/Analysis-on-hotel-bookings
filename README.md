@@ -10,6 +10,9 @@ bookings due to arrive between the 1st of July of 2015 and the 31st of August
 cancelled. Since this is hotel real data, all data elements pertaining hotel or 
 costumer identification were deleted.
 
+### Language: Python
+### Environment: Google Colab
+
 ## Data Analysis
 Performed in 4 steps: <b>Data Collection</b>, <b>Data Preprocessing</b>, <b>EDA</b>, <b>Interpretation</b>
 
